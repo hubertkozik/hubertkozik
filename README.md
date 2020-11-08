@@ -5,9 +5,9 @@ I am a passionate web developer coding with technologies like HTML, CSS/SASS, Ja
 
 I'm currently looking for my first job, so if you are looking for someone to work, feel free to contact me :blush:
 
-:email: hubertkozik13@gmail.com <br/><br/>
-:briefcase: www.linkedin.com/in/hubertkozik <br/><br/>
-:page_with_curl:  <br/><br/>
+:email:   hubertkozik13@gmail.com <br/><br/>
+:briefcase:   www.linkedin.com/in/hubertkozik <br/><br/>
+:page_with_curl:    <br/><br/>
 
 ### Take a look at my repos :point_down:
 
