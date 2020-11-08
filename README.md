@@ -3,7 +3,7 @@ I'm Hubert from Poland, currently studying Geoinformatic at the AGH University o
 
 I am a passionate web developer coding with technologies like HTML, CSS/SASS, JavaScript, React.js, Node.js/Express.js.
 
-I'm currently looking for my first job, so if you are looking for someone, feel free to contact me 😃
+I'm currently looking for my first job, so if you are looking for someone to work, feel free to contact me :blush:
 
 :email: hubertkozik13@gmail.com
 :briefcase: www.linkedin.com/in/hubertkozik
