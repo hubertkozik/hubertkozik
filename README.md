@@ -7,7 +7,7 @@ I'm currently looking for my first job, so if you are looking for someone to wor
 
 :email:   hubertkozik13@gmail.com <br/><br/>
 :briefcase:   www.linkedin.com/in/hubertkozik <br/><br/>
-:page_with_curl:    <br/><br/>
+:page_with_curl:    My CV: shorturl.at/lJP17<br/><br/>
 
 ### Take a look at my repos :point_down:
 
