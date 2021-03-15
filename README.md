@@ -1,5 +1,5 @@
 ## Hi :wave:
-I'm Hubert from Poland, currently studying Geoinformatic at the AGH University of Science and Technology in Krakow. I'm also graduate of Upper-Secondary Schools of Communications in Krakow - IT Specialist. 
+I'm Hubert, currently studying Geoinformatic at the AGH University of Science and Technology in Krakow. I'm also graduate of Upper-Secondary Schools of Communications in Krakow - IT Specialist. 
 
 I am a passionate web developer coding with technologies like HTML, CSS/SASS, JavaScript, React.js, Node.js/Express.js.
 
