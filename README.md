@@ -1,7 +1,7 @@
 ## Hi :wave:
 I'm Hubert, graduate of Geoinformatic at the AGH University of Science and Technology in Krakow. I'm also graduate of Upper-Secondary Schools of Communications in Krakow - IT Specialist. 
 
-I am a passionate web developer coding with technologies like HTML, CSS/SASS, JavaScript, React.js, Node.js/Express.js.
+I am a passionate web developer coding with technologies like JavaScript, React.js, Node.js/Express.js.
 
 <!-- I'm currently looking for my first job, so if you are looking for someone to work, feel free to contact me :blush: -->
 
