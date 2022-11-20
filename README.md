@@ -10,7 +10,7 @@ I am a passionate web developer coding with technologies like JavaScript, React.
 <!--:page_with_curl:    [My CV](https://drive.google.com/file/d/1uOvMieDhqCMogCvAhEMazly2oMmTscSr/view?usp=sharing)<br/><br/>-->
 
 ### Take a look at my repos :point_down:
-but consider, that this is my old code (written around 1 year ago) and now I'm trying to find time to make some new projects to show my actual skills :)
+but consider, that this is my old code (written around 2 years ago) and now I'm trying to find time to make some new projects to show my actual skills :)
 
 <!--
 **hubertkozik/hubertkozik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
